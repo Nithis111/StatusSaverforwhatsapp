@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Status Saver for whatsapp</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="stitle">Story Saver</string>
+    <string name="how_it_works">How it works ?</string>
+    <string name="about_us">About us</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="closedrawer">Close drawer</string>
+    <string name="save_share_repost">Save, Share, Repost</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="share">Share</string>
+    <string name="Delete">Delete</string>
+    <string name="save">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+   <string name="Videos">Videos</string>
+    <string name="Saved">Saved</string>
+</resources>
